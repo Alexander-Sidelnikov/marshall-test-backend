@@ -925,6 +925,7 @@ input::-webkit-inner-spin-button {
   font-size: 13px;
   line-height: 19px;
   color: #9C9C9C;
+  padding-top: 0;
 }
 
 @media (max-width: 768px) {
