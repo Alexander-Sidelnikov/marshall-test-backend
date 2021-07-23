@@ -2051,6 +2051,7 @@ input::-webkit-inner-spin-button {
   text-align: start;
   display: flex;
   margin: 50px 0;
+  z-index: 1;
 }
 .card-intro .card__content .content__desc .desc__price .swiper-pagination-bullet {
   position: relative;
