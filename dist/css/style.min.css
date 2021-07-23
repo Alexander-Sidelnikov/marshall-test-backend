@@ -602,6 +602,7 @@ input::-webkit-inner-spin-button {
 }
 
 .nav__list .nav__link {
+  font-family: "Druk", sans-serif;
   font-weight: 500;
   line-height: 23px;
   padding-right: 25px;
