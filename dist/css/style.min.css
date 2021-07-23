@@ -1207,6 +1207,7 @@ input::-webkit-inner-spin-button {
   line-height: 30px;
   margin-top: 15px;
   margin-bottom: 35px;
+  color: #1A1F24;
 }
 
 .basket .products__desc .desc__options {
@@ -1908,6 +1909,7 @@ input::-webkit-inner-spin-button {
   -o-transition: all 0.2s ease;
   transition: all 0.2s ease;
   margin-bottom: 57px;
+  color: #EDEDED;
 }
 
 .products .products__inner .products__item:hover .products__name {
