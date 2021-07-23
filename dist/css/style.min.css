@@ -609,6 +609,7 @@ input::-webkit-inner-spin-button {
   -webkit-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
+  color: #EDEDED;
 }
 
 .nav__list .nav__link:last-child {
@@ -989,6 +990,7 @@ input::-webkit-inner-spin-button {
   max-height: 155px;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  color: #EDEDED;
 }
 
 @media (max-width: 992px) {
